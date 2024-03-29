@@ -1,0 +1,20 @@
+# Fichiers générés par le système d'exploitation
+.DS_Store # Paramètres des dossiers macOS
+Thumbs.db # Cache des fichiers d'images Windows
+Desktop.ini # Paramètres des icônes du bureau Windows
+
+# Dossiers et fichiers d'éditeur
+.vscode/   # Paramètres de Visual Studio Code
+.idea/     # Paramètres de IntelliJ IDEA
+*.swp      # Fichiers d'échange Vim
+*.swo      # Fichiers d'échange Vim
+*.swn      # Fichiers d'échange Vim
+
+# Fichiers temporaires ou de cache
+*.tmp      # Fichiers temporaires
+*.temp     # Fichiers temporaires
+*.cache    # Fichiers de cache
+*.bak      # Fichiers de sauvegarde
+
+# Autres
+*.log      # Fichiers journaux

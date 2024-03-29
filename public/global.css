@@ -1,0 +1,76 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-abel: Abel;
+  --font-syne: Syne;
+  --font-abeezee: ABeeZee;
+  --huevost-h2: Alatsi;
+  --huevost-h1: "Abhaya Libre";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --huevost-h2-size: 30px;
+  --font-size-lg: 18px;
+  --font-size-5xl: 24px;
+  --font-size-3xl: 22px;
+  --font-size-15xl: 34px;
+  --font-size-xl: 20px;
+  --font-size-8xl: 27px;
+  --font-size-base: 16px;
+  --huevost-h1-size: 44px;
+
+  /* Colors */
+  --huevost-background: #080410;
+  --color-gray-100: rgba(255, 255, 255, 0.05);
+  --huevost-grey: #c2bebe;
+  --color-silver-100: rgba(194, 190, 190, 0.8);
+  --huevost-orange-white: #f7f2f0;
+  --color-orangered-100: #ff5b28;
+  --color-orangered-200: #e6420f;
+  --color-orangered-300: rgba(230, 66, 15, 0.09);
+  --color-orangered-400: rgba(255, 91, 40, 0.1);
+  --color-orangered-500: rgba(255, 91, 40, 0.02);
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-41xl: 60px;
+  --gap-11xl: 30px;
+  --gap-9xl: 28px;
+  --gap-3xs: 10px;
+  --gap-xs: 12px;
+  --gap-8xs: 5px;
+  --gap-5xl: 24px;
+  --gap-lg: 18px;
+
+  /* Paddings */
+  --padding-56xl: 75px;
+  --padding-132xl: 151px;
+  --padding-9xl: 28px;
+  --padding-xl: 20px;
+  --padding-6xs-6: 6.6px;
+  --padding-8xl: 27px;
+  --padding-24xl: 43px;
+  --padding-81xl: 100px;
+  --padding-46xl: 65px;
+  --padding-11xl: 30px;
+  --padding-2xl: 21px;
+  --padding-mini: 15px;
+  --padding-lgi-5: 19.5px;
+  --padding-sm: 14px;
+  --padding-smi: 13px;
+  --padding-3xs: 10px;
+  --padding-5xs: 8px;
+
+  /* Border radiuses */
+  --br-4xs: 9px;
+  --br-22xl: 41px;
+  --br-xl: 20px;
+  --br-base: 16px;
+  --br-8xs-5: 4.5px;
+  --br-31xl: 50px;
+  --br-6xs: 7px;
+}
